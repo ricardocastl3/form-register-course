@@ -1,6 +1,4 @@
-# Form Registration
-
-##### 🟣 You may test here: <a href="#" target="__blank"> Open Demo</a>
+# 🟣 Form Registration
 
 #### → View 01
 <img src="https://github.com/ricardocastl3/form-register-course/blob/main/src/assets/view-01.png" width="500">
